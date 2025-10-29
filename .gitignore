@@ -1,0 +1,34 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.vscode/
+*.VC.db
+*.sln
+*.sdf
+*.opensdf
+*.suo
+*.ipch
+*.obj
+*.pch
+*.log
+*.tlog
+*.tmp
+*.user
+*.rsuser
+*.aps
+*.ncb
+*.opendb
+.DS_Store
+Thumbs.db
+
+# Plugins generados
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Build receipts y caches
+Build/*/Binaries/
+Build/*/Intermediate/
